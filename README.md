@@ -2,7 +2,7 @@
 A mod including a set of colortimers for HS2 / AIS accessories.
 
 ## How to Use
-Download the .zip file for the latest version on the [Release](https://github.com/Blatke/Colortimer-Pack/releases) page, and uncompress it into several .zipmod files, then drag and drop it into your **/mods/** folder or use KKManager to install it. 
+Download the .zipmod file for the latest version on the download page for [each pack](https://github.com/Blatke/Colortimer-Pack/tree/main?tab=readme-ov-file#content) listed below, and uncompress it into several .zipmod files, then drag and drop it into your **/mods/** folder or use KKManager to install it. 
 
 In **Chara Maker**, go to **Accessory** panel, then to the **Chest** tab, and seach for "**colortimer 24**". After finding them, click one to add it onto the chest of your character.
 
@@ -12,6 +12,8 @@ Use MaterialEditor to adjust their material parameters.
 
 ## Content
 ### Pack 1
+[Download](https://github.com/Blatke/Colortimer-Pack/releases)
+
 1. Colortimer 240914a
 
 ![Colortimer 240914a_acc](https://github.com/user-attachments/assets/370c4e3c-3b78-4bc9-8aae-f9d362df1e68)
@@ -32,6 +34,8 @@ Use MaterialEditor to adjust their material parameters.
 
 ![Colortimer 240914d_acc](https://github.com/user-attachments/assets/7cfaa2ed-656b-4d9a-9d15-61dc48224e0c)
 ### Pack 2
+[Download](https://github.com/Blatke/Colortimer-Pack-2/releases)
+
 1. Colortimer 240916a
 
 ![240916a_acc](https://github.com/user-attachments/assets/a171eb96-2252-4886-af74-2ec8f6c0058e)
