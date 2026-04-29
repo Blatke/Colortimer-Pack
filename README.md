@@ -57,6 +57,8 @@ Use MaterialEditor to adjust their material parameters.
 ![240916e_acc](https://github.com/user-attachments/assets/ff5f3e83-7710-470b-9318-104e656c634f)
 
 ### Pack 3
+[Download](https://github.com/Blatke/Colortimer-Pack-3/releases)
+
 1. Colortimer 240919
 
 <img width="128" height="128" alt="thumb_6" src="https://github.com/user-attachments/assets/c8976ecf-0541-422b-b170-5b2a2789b0b7" />
