@@ -4,7 +4,7 @@ A mod including a set of colortimers for HS2 / AIS accessories.
 ## How to Use
 Download the .zipmod file for the latest version on the download page for [each pack](https://github.com/Blatke/Colortimer-Pack/tree/main?tab=readme-ov-file#content) listed below, and uncompress it into several .zipmod files, then drag and drop it into your **/mods/** folder or use KKManager to install it. 
 
-In **Chara Maker**, go to **Accessory** panel, then to the **Chest** tab, and seach for "**colortimer 24**". After finding them, click one to add it onto the chest of your character.
+In **Chara Maker**, go to **Accessory** panel, then to the **Chest** tab, and seach for "**colortimer**". After finding them, click one to add it onto the chest of your character.
 
 ![AI_2024-09-16-00-06-15-983](https://github.com/user-attachments/assets/9bba8402-2196-4d54-b248-387ee01794c9)
 
